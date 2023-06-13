@@ -10,8 +10,8 @@ This repository contains various Digital Signal Processing (**DSP**) algorithms 
 
 - **FaustDSPfiles**: different DSP algorithms (.dsp files) in Faust, a domain-specific purely functional programming language for implementing signal processing algorithms in the form of libraries, audio plug-ins, or standalone applications. For most of the algorithms you can find also a relative compiled SuperCollider UGen (the folders) in the same folder. Again, to use these plugins in SuperCollider you should copy and paste this folder in your "Extensions" folder for the SuperCollider environment. Alternatively you can also target another programming languages from the Faust IDE through the .dsp files.
 
-- **SuperColliderCodes**:
+- **SuperColliderCodes**: different .scd files for SuperCollider (SC), an environment and programming language for real-time audio synthesis and algorithmic composition. Most of them are working in the language part of SC an don't use the audio server and will be implemented soon in C++ as SC Ugens (plugins). 
 
-- **RealTimeVowelRecognition**:
+- **RealTimeVowelRecognition**: 
 
 
