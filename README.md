@@ -1,6 +1,6 @@
 # audioDSPmiscellaneous
 
-Miscellaneous Digital Signal Processing (DSP) algorithms in different programming languages (C++, Faust, SuperCollider, ...).
+Miscellaneous Digital Signal Processing (DSP) algorithms in different programming languages (C++, Faust, SuperCollider).
 
 ## Summary
 
