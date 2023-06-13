@@ -42,20 +42,20 @@ SynthDef(\pitchTrack, { |
 
 // FIXED PITCH AFTER AVERAGE IN A BUFFER
 (
-// Helper function to calculate the median
+// Calculate the median
 ~calculateMedian = { |list|
     var sortedList = list.sort;
     var medianIndex = sortedList.size.div(2);
     sortedList[medianIndex]
 };
 
-// Helper function to calculate the median absolute deviation (MAD)
+// Calculate the median absolute deviation (MAD)
 ~calculateMAD = { |list, median|
     var absDeviations = list.collect { |x| (x - median).abs };
     ~calculateMedian.(absDeviations)
 };
 
-// Main function to calculate the average without outliers
+// Calculate the average without outliers
 ~calculateAverageWithoutOutliers = { |arr, threshold = 3|
     var sortedArr = arr.sort;
     var median = ~calculateMedian.(sortedArr);
