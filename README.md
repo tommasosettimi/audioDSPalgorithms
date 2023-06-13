@@ -1,4 +1,5 @@
 # audioDSPmiscellaneous
+<<<<<<< HEAD
 Miscellaneous Digital Signal Processing (DSP) algorithms in different programming languages (Faust, SuperCollider, C++, ...).
 
 ## Summary
@@ -11,3 +12,6 @@ This repository contains various Digital Signal Processing (DSP) algorithms that
 
 
 
+=======
+Miscellaneous digital signal processing (DSP) algorithms in different programming languages (Faust, SuperCollider, C++, ...).
+>>>>>>> 034bcb6eef27bc86464c8e6a89e6bb46b080268a
