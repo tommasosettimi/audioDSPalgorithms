@@ -4,7 +4,7 @@ Digital Signal Processing (DSP) algorithms in different programming languages (C
 
 ## Summary
 
-This repository contains various Digital Signal Processing (DSP) algorithms that have been useful to me over the years in audio programming, perhaps they will also be useful to someone else. There are various folders, specifically:
+This repository contains various Digital Signal Processing (**DSP**) algorithms that have been useful to me over the years in audio programming, perhaps they will also be useful to someone else. There are various folders, specifically:
 
 - **C++pluginsSC**: a library of UGens (plugins) for SuperCollider, an environment and programming language for real-time audio synthesis and algorithmic composition. For each plug-in there is also the relative non-compiled .cpp original file, to look into the DSP. To use these plugins you should copy and paste this folder in your "Extensions" folder for the SuperCollider environment (typically ~/Library/Application Support/SuperCollider/Extensions/ for Mac users). They range from very simple (see DCdynamicTS) to complex systems (see LogisticButterflyTS).
 
