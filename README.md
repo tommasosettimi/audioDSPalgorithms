@@ -8,27 +8,39 @@ This repository contains various Digital Signal Processing (**DSP**) algorithms 
 
 - **C++pluginsSC**: a library of UGens (plugins) for SuperCollider, an environment and programming language for real-time audio synthesis and algorithmic composition. For each plug-in there is also the relative non-compiled .cpp original file, to look into the DSP. To use these plugins you should copy and paste this folder in your "Extensions" folder for the SuperCollider environment (typically ~/Library/Application Support/SuperCollider/Extensions/ for Mac users). They range from very simple (see DCdynamicTS) to complex systems (see LogisticButterflyTS).
 
-- **FaustDSPfiles**: different DSP algorithms (.dsp files) in Faust, a domain-specific purely functional programming language for implementing signal processing algorithms in the form of libraries, audio plug-ins, or standalone applications. For most of the algorithms you can find also a relative compiled SuperCollider UGen (the folders) in the same folder. Again, to use these plugins in SuperCollider you should copy and paste this folder in your "Extensions" folder for the SuperCollider environment. Alternatively you can also target another programming languages from the Faust IDE through the .dsp files.
+- **FaustDSPfiles**: a library of DSP algorithms (.dsp files) in Faust, a domain-specific purely functional programming language for implementing signal processing algorithms in the form of libraries, audio plug-ins, or standalone applications. For most of the algorithms you can find also a relative compiled SuperCollider UGen (the folders) in the same folder. Again, to use these plugins in SuperCollider you should copy and paste this folder in your "Extensions" folder for the SuperCollider environment. Alternatively you can also target another programming languages from the Faust IDE through the .dsp files.
 
-- **SuperColliderCodes**: different .scd files for SuperCollider (SC), an environment and programming language for real-time audio synthesis and algorithmic composition. Most of them are working in the language part of SC an don't use the audio server and will be implemented soon in C++ as SC Ugens (plugins). 
+- **SuperColliderCodes**: a library of .scd files for SuperCollider (SC), an environment and programming language for real-time audio synthesis and algorithmic composition. Most of them are working in the language part of SC an don't use the audio server and will be implemented soon in C++ as SC Ugens (plugins). 
 
 #
 
 ## C++pluginsSC
 
-blabla
+A library of UGens (plugins) for SuperCollider, an environment and programming language for real-time audio synthesis and algorithmic composition. The full documentation of this library will be uploaded soon. The library include the following audio DSP plugins:
+-
+-
+-
+
 
 #
 
 ## FaustDSPfiles
 
-blabla
+A library of DSP algorithms (.dsp files) in Faust, a domain-specific purely functional programming language for implementing signal processing algorithms in the form of libraries, audio plug-ins, or standalone applications. The full documentation of this library will be uploaded soon. The library include the following audio DSP plugins:
+-
+-
+-
+
 
 #
 
 ## SuperColliderCodes
 
-blabla
+A library of .scd files for SuperCollider (SC), an environment and programming language for real-time audio synthesis and algorithmic composition. The full documentation of this library will be uploaded soon. The library include the following audio DSP functions:
+-
+-
+-
+
 
 
 
