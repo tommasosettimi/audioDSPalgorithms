@@ -29,7 +29,7 @@ A library of DSP algorithms (.dsp files) in Faust, a domain-specific purely func
 
 ### SuperColliderCodes
 
-A library of .scd files for SuperCollider (SC), an environment and programming language for real-time audio synthesis and algorithmic composition. The full documentation of this library will be uploaded soon. The library include the following audio DSP codes: average_function_language, evolvingBitwiseDistortion, median_absolute_deviation, pitchTrack. 
+A library of .scd files for SuperCollider (SC), an environment and programming language for real-time audio synthesis and algorithmic composition. The full documentation of this library will be uploaded soon. The library include the following audio DSP codes: average_function_language.scd, evolvingBitwiseDistortion.scd, median_absolute_deviation.scd, pitchTrack.scd. 
 
 
 
