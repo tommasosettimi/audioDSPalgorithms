@@ -12,5 +12,25 @@ This repository contains various Digital Signal Processing (**DSP**) algorithms 
 
 - **SuperColliderCodes**: different .scd files for SuperCollider (SC), an environment and programming language for real-time audio synthesis and algorithmic composition. Most of them are working in the language part of SC an don't use the audio server and will be implemented soon in C++ as SC Ugens (plugins). 
 
+#
+
+## C++pluginsSC
+
+blabla
+
+#
+
+## FaustDSPfiles
+
+blabla
+
+#
+
+## SuperColliderCodes
+
+blabla
+
+
+
 
 
