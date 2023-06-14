@@ -12,31 +12,25 @@ This repository contains various Digital Signal Processing (**DSP**) algorithms 
 
 - **SuperColliderCodes**: a library of .scd files for SuperCollider (SC), an environment and programming language for real-time audio synthesis and algorithmic composition. Most of them are working in the language part of SC an don't use the audio server and will be implemented soon in C++ as SC Ugens (plugins). 
 
+#
 
 ### C++pluginsSC
 
-A library of UGens (plugins) for SuperCollider, an environment and programming language for real-time audio synthesis and algorithmic composition. The full documentation of this library will be uploaded soon. The library include the following audio DSP plugins:
--
--
--
+A library of UGens (plugins) for SuperCollider, an environment and programming language for real-time audio synthesis and algorithmic composition. The full documentation of this library will be uploaded soon. The library include the following audio DSP plugins.
 
 
 
 ### FaustDSPfiles
 
-A library of DSP algorithms (.dsp files) in Faust, a domain-specific purely functional programming language for implementing signal processing algorithms in the form of libraries, audio plug-ins, or standalone applications. The full documentation of this library will be uploaded soon. The library include the following audio DSP plugins:
--
--
--
+A library of DSP algorithms (.dsp files) in Faust, a domain-specific purely functional programming language for implementing signal processing algorithms in the form of libraries, audio plug-ins, or standalone applications. The full documentation of this library will be uploaded soon. The library include the following audio DSP plugins.
+
 
 
 
 ### SuperColliderCodes
 
-A library of .scd files for SuperCollider (SC), an environment and programming language for real-time audio synthesis and algorithmic composition. The full documentation of this library will be uploaded soon. The library include the following audio DSP functions:
--
--
--
+A library of .scd files for SuperCollider (SC), an environment and programming language for real-time audio synthesis and algorithmic composition. The full documentation of this library will be uploaded soon. The library include the following audio DSP functions.
+
 
 
 
