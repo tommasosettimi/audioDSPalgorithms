@@ -22,14 +22,14 @@ A library of UGens (plugins) for SuperCollider, an environment and programming l
 
 ### FaustDSPfiles
 
-A library of DSP algorithms (.dsp files) in Faust, a domain-specific purely functional programming language for implementing signal processing algorithms in the form of libraries, audio plug-ins, or standalone applications. The full documentation of this library will be uploaded soon. The library include the following audio DSP plugins:
+A library of DSP algorithms (.dsp files) in Faust, a domain-specific purely functional programming language for implementing signal processing algorithms in the form of libraries, audio plug-ins, or standalone applications. The full documentation of this library will be uploaded soon. The library include the following audio DSP plugins: DifferentOfZeroTS, PhasorSignAlternatorTS, PhasorTS, RMSBlockSumTS, SampleCounterTS, SampleHoldTS, SummingBlockSumTS, ZeroCrossingToggleReverseTS, ZeroCrossingToggleStereoTS, ZeroCrossingToggleX3TS.
 
 
 
 
 ### SuperColliderCodes
 
-A library of .scd files for SuperCollider (SC), an environment and programming language for real-time audio synthesis and algorithmic composition. The full documentation of this library will be uploaded soon. The library include the following audio DSP functions:
+A library of .scd files for SuperCollider (SC), an environment and programming language for real-time audio synthesis and algorithmic composition. The full documentation of this library will be uploaded soon. The library include the following audio DSP codes: average_function_language, evolvingBitwiseDistortion, median_absolute_deviation, pitchTrack. 
 
 
 
