@@ -1,6 +1,6 @@
 # audioDSPalgorithms
 
-Digital Signal Processing (DSP) algorithms in different programming languages (C++, Faust, SuperCollider).
+Digital Signal Processing (DSP) algorithms in form of libraries in different programming languages (C++, Faust, SuperCollider).
 
 ## Summary
 
