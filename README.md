@@ -16,7 +16,7 @@ This repository contains various Digital Signal Processing (**DSP**) algorithms 
 
 ### C++pluginsSC
 
-A library of UGens (plugins) for SuperCollider, an environment and programming language for real-time audio synthesis and algorithmic composition. The full documentation of this library will be uploaded soon. The library include the following audio DSP plugins:
+A library of UGens (plugins) for SuperCollider, an environment and programming language for real-time audio synthesis and algorithmic composition. The full documentation of this library will be uploaded soon. The library include the following audio DSP plugins.
 -
 
 
